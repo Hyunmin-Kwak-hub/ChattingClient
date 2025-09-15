@@ -1,0 +1,7 @@
+{
+  "IpAddress": "{서버IP}", // 실제 서버 ip 입력
+  "Port": 49200, // 서버 통신 포트 번호
+  "UserId": "",
+  "UserPassword": "",
+  "last_logged_in_user": ""
+}

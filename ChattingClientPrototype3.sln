@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChattingClientPrototype3", "ChattingClientPrototype3\ChattingClientPrototype3.csproj", "{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NsTalk_Setup", "NsTalk_Setup\NsTalk_Setup.vdproj", "{F4244449-A363-4A8D-A5F2-76094D535E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Setup|Any CPU = Setup|Any CPU
+		Setup|x64 = Setup|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Debug|x64.ActiveCfg = Debug|x64
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Debug|x64.Build.0 = Debug|x64
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Release|x64.ActiveCfg = Release|x64
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Release|x64.Build.0 = Release|x64
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Setup|Any CPU.ActiveCfg = Release|Any CPU
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Setup|Any CPU.Build.0 = Release|Any CPU
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Setup|x64.ActiveCfg = Release|x64
+		{7E377418-FCDB-4C81-B3A7-20D2319BBBFD}.Setup|x64.Build.0 = Release|x64
+		{F4244449-A363-4A8D-A5F2-76094D535E36}.Debug|Any CPU.ActiveCfg = Debug
+		{F4244449-A363-4A8D-A5F2-76094D535E36}.Debug|x64.ActiveCfg = Debug
+		{F4244449-A363-4A8D-A5F2-76094D535E36}.Release|Any CPU.ActiveCfg = Release
+		{F4244449-A363-4A8D-A5F2-76094D535E36}.Release|x64.ActiveCfg = Release
+		{F4244449-A363-4A8D-A5F2-76094D535E36}.Setup|Any CPU.ActiveCfg = Debug
+		{F4244449-A363-4A8D-A5F2-76094D535E36}.Setup|x64.ActiveCfg = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1992C00A-12CD-4684-A298-C50FBEF5BE82}
+	EndGlobalSection
+EndGlobal
